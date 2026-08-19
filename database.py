@@ -1,9 +1,4 @@
-"""
-SIG-LOG - Módulo de base de datos
-Crea la base de datos SQLite con las tablas requeridas y datos de ejemplo.
-Ejecuta este archivo una sola vez (o bórralo y vuelve a correrlo) para
-reiniciar la base de datos: python database.py
-"""
+
 import sqlite3
 import random
 import hashlib
